@@ -2,7 +2,7 @@
 <h1 style="text-align: center;">Compliance and Trust</h1>
 
 # Description
-Organizations' transparency about their security and compliance practices has become pivotal in third-party risk management (TPRM). 
+Transparency about an organization's security and compliance practices has become pivotal in third-party risk management (TPRM). 
 <br>This repository contains the links to each listed organization's Security & Compliance information. 
 <br>
 
