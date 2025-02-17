@@ -1,667 +1,1502 @@
 [
 	{
 		"Company": "1Password",
-		"Domain": "1password.com",
+		"Domain": "https://1password.com",
 		"Compliance and Trust Link": "https://1password.com/security/~~https://support.1password.com/security-assessments/"
 	},
 	{
 		"Company": "2Checkout",
-		"Domain": "2checkout.com",
+		"Domain": "https://2checkout.com",
 		"Compliance and Trust Link": "https://www.2checkout.com/risk-management-and-compliance/"
 	},
 	{
+		"Company": "3DS",
+		"Domain": "https://3ds.com",
+		"Compliance and Trust Link": "https://www.3ds.com/trust/3dexperience-trust-center"
+	},
+	{
+		"Company": "A10 Networks",
+		"Domain": "https://a10networks.com",
+		"Compliance and Trust Link": "https://www.a10networks.com/products/certifications/"
+	},
+	{
+		"Company": "Abbott Laboratories",
+		"Domain": "https://abbott.com",
+		"Compliance and Trust Link": "https://www.abbott.com/policies/cybersecurity.html"
+	},
+	{
+		"Company": "Act-On Software",
+		"Domain": "https://act-on.com",
+		"Compliance and Trust Link": "https://act-on.com/learn/news-press/act-on-software-hipaa-compliance-iso-27001-certification/"
+	},
+	{
 		"Company": "ActiveCampaign",
-		"Domain": "activecampaign.com",
+		"Domain": "https://activecampaign.com",
 		"Compliance and Trust Link": "https://www.activecampaign.com/security"
 	},
 	{
+		"Company": "Adobe",
+		"Domain": "https://adobe.com",
+		"Compliance and Trust Link": "https://www.adobe.com/trust/compliance/compliance-list.html ~~ https://www.adobe.com/trust/compliance/adobe-ccf.html ~~ https://www.adobe.com/trust/security.html"
+	},
+	{
+		"Company": "Adroll",
+		"Domain": "https://adroll.com",
+		"Compliance and Trust Link": "https://www.nextroll.com/trust-center ~~ https://security.nextroll.com/"
+	},
+	{
+		"Company": "Advanced Micro Devices",
+		"Domain": "https://amd.com",
+		"Compliance and Trust Link": "https://www.amd.com/en/resources/product-security.html"
+	},
+	{
 		"Company": "Agorapulse",
-		"Domain": "agorapulse.com",
+		"Domain": "https://agorapulse.com",
 		"Compliance and Trust Link": "https://www.agorapulse.com/security/"
 	},
 	{
 		"Company": "Ahrefs",
-		"Domain": "ahrefs.com",
+		"Domain": "https://ahrefs.com",
 		"Compliance and Trust Link": "https://ahrefs.com/legal/security-measures"
 	},
 	{
 		"Company": "Airtable",
-		"Domain": "airtable.com",
+		"Domain": "https://airtable.com",
 		"Compliance and Trust Link": "https://www.airtable.com/company/trust-and-security"
 	},
 	{
+		"Company": "Al Enterprise",
+		"Domain": "https://al-enterprise.com",
+		"Compliance and Trust Link": "https://www.al-enterprise.com/en/legal/compliance"
+	},
+	{
+		"Company": "Alcoa",
+		"Domain": "https://alcoa.com",
+		"Compliance and Trust Link": "https://www.alcoa.com/global/en/who-we-are/ethics-compliance/global-security-policy"
+	},
+	{
+		"Company": "Allstate",
+		"Domain": "https://allstate.com",
+		"Compliance and Trust Link": "https://www.allstate.com/allstate-benefits/privacy-and-security.aspx"
+	},
+	{
+		"Company": "Ally Financial",
+		"Domain": "https://ally.com",
+		"Compliance and Trust Link": "https://www.ally.com/security/"
+	},
+	{
+		"Company": "Amazon",
+		"Domain": "https://amazon.com",
+		"Compliance and Trust Link": "https://aws.amazon.com/compliance/programs/"
+	},
+	{
+		"Company": "Amazon Linux",
+		"Domain": "https://amazon.com",
+		"Compliance and Trust Link": "https://aws.amazon.com/compliance/programs/"
+	},
+	{
+		"Company": "Amazon Web Services (AWS)",
+		"Domain": "https://aws.amazon.com",
+		"Compliance and Trust Link": "https://aws.amazon.com/compliance/programs/"
+	},
+	{
+		"Company": "Ameren",
+		"Domain": "https://ameren.com",
+		"Compliance and Trust Link": "https://www.ameren.com/privacy/security-measures"
+	},
+	{
+		"Company": "American Airlines Group",
+		"Domain": "https://aa.com",
+		"Compliance and Trust Link": "https://www.aa.com/pubcontent/en_US/customer-service/about-us/cybersecurity-policy-statement.jsp"
+	},
+	{
+		"Company": "American Express",
+		"Domain": "https://americanexpress.com",
+		"Compliance and Trust Link": "https://www.americanexpress.com/us/security-center/cybersecurity.html"
+	},
+	{
+		"Company": "American Family Insurance Group",
+		"Domain": "https://amfam.com",
+		"Compliance and Trust Link": "https://www.amfam.com/privacy-security"
+	},
+	{
+		"Company": "American International Group",
+		"Domain": "https://aig.com",
+		"Compliance and Trust Link": "https://www.aig.com/home/about/cyber-and-information-security"
+	},
+	{
+		"Company": "Ameriprise Financial",
+		"Domain": "https://ameriprise.com",
+		"Compliance and Trust Link": "https://www.ameriprise.com/privacy-security-fraud/how-we-protect-information"
+	},
+	{
+		"Company": "Amgen",
+		"Domain": "https://amgen.com",
+		"Compliance and Trust Link": "https://www.amgen.com/responsibility/a-healthy-amgen/cybersecurity-and-data-privacy"
+	},
+	{
+		"Company": "AMI",
+		"Domain": "https://ami.com",
+		"Compliance and Trust Link": "https://www.ami.com/security-center/"
+	},
+	{
+		"Company": "Anaplan",
+		"Domain": "https://anaplan.com",
+		"Compliance and Trust Link": "https://www.anaplan.com/trust/"
+	},
+	{
+		"Company": "Android",
+		"Domain": "https://android.com",
+		"Compliance and Trust Link": "https://www.android.com/enterprise/security/"
+	},
+	{
+		"Company": "Apollo Global Management",
+		"Domain": "https://apollo.com",
+		"Compliance and Trust Link": "https://www.apollographql.com/trust/compliance-and-security"
+	},
+	{
+		"Company": "AppDynamics",
+		"Domain": "https://appdynamics.com",
+		"Compliance and Trust Link": "https://www.appdynamics.com/trust-center/privacy"
+	},
+	{
+		"Company": "Apptio",
+		"Domain": "https://apptio.com",
+		"Compliance and Trust Link": "https://www.apptio.com/company/trust/"
+	},
+	{
+		"Company": "Arrow Electronics",
+		"Domain": "https://arrow.com",
+		"Compliance and Trust Link": "https://www.arrow.com/company/expertise/security"
+	},
+	{
+		"Company": "Aruba Networks",
+		"Domain": "https://arubanetworks.com",
+		"Compliance and Trust Link": "https://www.arubanetworks.com/products/security/compliance-certifications/"
+	},
+	{
 		"Company": "Asana",
-		"Domain": "asana.com",
+		"Domain": "https://asana.com",
 		"Compliance and Trust Link": "https://asana.com/trust~~https://asana.com/trust#compliance"
 	},
 	{
+		"Company": "AT&T",
+		"Domain": "https://att.com",
+		"Compliance and Trust Link": "https://cybersecurity.att.com/xdr"
+	},
+	{
 		"Company": "Atlassian",
-		"Domain": "atlassian.com",
+		"Domain": "https://atlassian.com",
 		"Compliance and Trust Link": "https://www.atlassian.com/trust~~https://www.atlassian.com/trust/compliance/resources"
 	},
 	{
+		"Company": "Auth0",
+		"Domain": "https://auth0.com",
+		"Compliance and Trust Link": "https://auth0.com/security"
+	},
+	{
 		"Company": "Autodesk",
-		"Domain": "autodesk.com",
+		"Domain": "https://autodesk.com",
 		"Compliance and Trust Link": "https://www.autodesk.com/trust/security~~https://www.autodesk.com/trust/compliance"
 	},
 	{
+		"Company": "Automatic Data Processing",
+		"Domain": "https://adp.com",
+		"Compliance and Trust Link": "https://www.adp.com/about-adp/data-security.aspx"
+	},
+	{
+		"Company": "AWS",
+		"Domain": "https://amazon.com",
+		"Compliance and Trust Link": "https://aws.amazon.com/compliance/"
+	},
+	{
+		"Company": "Axis",
+		"Domain": "https://axis.com",
+		"Compliance and Trust Link": "https://www.axis.com/compliance"
+	},
+	{
 		"Company": "Backblaze",
-		"Domain": "backblaze.com",
+		"Domain": "https://backblaze.com",
 		"Compliance and Trust Link": "https://www.backblaze.com/cloud-storage/security"
 	},
 	{
+		"Company": "Bank of America",
+		"Domain": "https://bankofamerica.com",
+		"Compliance and Trust Link": "https://www.bankofamerica.com/security-center/overview/"
+	},
+	{
 		"Company": "Basecamp",
-		"Domain": "basecamp.com",
+		"Domain": "https://basecamp.com",
 		"Compliance and Trust Link": "https://37signals.com/policies/security/37signals%20Security%20Overview.pdf"
 	},
 	{
+		"Company": "Baxter International",
+		"Domain": "https://baxter.com",
+		"Compliance and Trust Link": "https://www.baxter.com/product-security"
+	},
+	{
+		"Company": "Becton Dickinson",
+		"Domain": "https://bd.com",
+		"Compliance and Trust Link": "https://www.bd.com/en-us/about-bd/cybersecurity#trustcenter"
+	},
+	{
+		"Company": "Berry Global Group",
+		"Domain": "https://berryglobal.com",
+		"Compliance and Trust Link": "https://www.berryglobal.com/en/sustainability/sustainability-strategy/key-issues/data-security"
+	},
+	{
+		"Company": "BeyondTrust",
+		"Domain": "https://beyondtrust.com",
+		"Compliance and Trust Link": "https://www.beyondtrust.com/trust-center/industry-certifications ~~ https://www.beyondtrust.com/trust-center/security"
+	},
+	{
 		"Company": "BigCommerce",
-		"Domain": "bigcommerce.com",
+		"Domain": "https://bigcommerce.com",
 		"Compliance and Trust Link": "https://security.bigcommerce.com/"
 	},
 	{
+		"Company": "Bill.Com",
+		"Domain": "https://bill.com",
+		"Compliance and Trust Link": "https://www.bill.com/product/security"
+	},
+	{
+		"Company": "Blackbaud",
+		"Domain": "https://blackbaud.com",
+		"Compliance and Trust Link": "https://www.blackbaud.com/security ~~ https://www.blackbaud.com/security/compliance-certifications"
+	},
+	{
+		"Company": "Bold BI",
+		"Domain": "https://boldbi.com",
+		"Compliance and Trust Link": "https://www.boldbi.com/legal/security"
+	},
+	{
 		"Company": "Bold Reports",
-		"Domain": "boldreports.com",
+		"Domain": "https://boldreports.com",
 		"Compliance and Trust Link": "https://www.boldreports.com/legal/security"
 	},
 	{
 		"Company": "BoldSign",
-		"Domain": "boldsign.com",
+		"Domain": "https://boldsign.com",
 		"Compliance and Trust Link": "https://boldsign.com/security-policy/"
 	},
 	{
 		"Company": "Box",
-		"Domain": "box.com",
+		"Domain": "https://box.com",
 		"Compliance and Trust Link": "https://www.box.com/trust~~https://cloud.app.box.com/s/o4l3stzm9sbywyiiwtkk2o4anhjep09x"
 	},
 	{
+		"Company": "Broadcom",
+		"Domain": "https://broadcom.com",
+		"Compliance and Trust Link": "https://www.broadcom.com/support/saas/compliance-audit-reports"
+	},
+	{
+		"Company": "Builders FirstSource",
+		"Domain": "https://bldr.com",
+		"Compliance and Trust Link": "http://help.bldr.tech/en/articles/2912910-security-information"
+	},
+	{
+		"Company": "Caesars Entertainment",
+		"Domain": "https://caesars.com",
+		"Compliance and Trust Link": "https://www.caesars.com/corporate/security"
+	},
+	{
 		"Company": "Calendly",
-		"Domain": "calendly.com",
+		"Domain": "https://calendly.com",
 		"Compliance and Trust Link": "https://calendly.com/security"
 	},
 	{
 		"Company": "Campaign Monitor",
-		"Domain": "campaignmonitor.com",
+		"Domain": "https://campaignmonitor.com",
 		"Compliance and Trust Link": "https://www.campaignmonitor.com/trust/~~https://www.campaignmonitor.com/trust/security/"
 	},
 	{
 		"Company": "Canva",
-		"Domain": "canva.com",
+		"Domain": "https://canva.com",
 		"Compliance and Trust Link": "https://canva.com/trust/~~https://www.canva.com/trust/compliance/"
 	},
 	{
+		"Company": "Capital One Financial",
+		"Domain": "https://capitalone.com",
+		"Compliance and Trust Link": "https://www.capitalone.com/digital/identity-protection/"
+	},
+	{
+		"Company": "Carrier",
+		"Domain": "https://carrier.com",
+		"Compliance and Trust Link": "https://www.corporate.carrier.com/product-security/"
+	},
+	{
+		"Company": "CBRE Group",
+		"Domain": "https://cbre.com",
+		"Compliance and Trust Link": "https://www.cbre.com/about-us/global-web-privacy-and-cookie-policy"
+	},
+	{
+		"Company": "Celanese",
+		"Domain": "https://celanese.com",
+		"Compliance and Trust Link": "https://www.celanese.com/-/media/cewebjssapp/project/documents/cybersecurity-statement.pdfundefined"
+	},
+	{
+		"Company": "CF Industries Holdings",
+		"Domain": "https://cfindustries.com",
+		"Compliance and Trust Link": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/policies/cf_industries_cybersecurity-statement.pdf"
+	},
+	{
+		"Company": "Charles Schwab",
+		"Domain": "https://schwab.com",
+		"Compliance and Trust Link": "https://www.schwab.com/schwabsafe"
+	},
+	{
+		"Company": "Checkpoint",
+		"Domain": "https://checkpoint.com",
+		"Compliance and Trust Link": "https://www.checkpoint.com/downloads/products/compliance-datasheet.pdf"
+	},
+	{
+		"Company": "Cheniere Energy",
+		"Domain": "https://cheniere.com",
+		"Compliance and Trust Link": "https://www.cheniere.com/our-responsibility/governance/cybersecurity-risks"
+	},
+	{
+		"Company": "Chevron",
+		"Domain": "https://chevron.com",
+		"Compliance and Trust Link": "https://www.chevron.com/who-we-are/culture/operational-excellence/cybersecurity"
+	},
+	{
+		"Company": "Cigna",
+		"Domain": "https://cigna.com",
+		"Compliance and Trust Link": "https://www.cignahealthbenefits.com/en/security"
+	},
+	{
+		"Company": "Cincinnati Financial",
+		"Domain": "https://cinfin.com",
+		"Compliance and Trust Link": "https://www.cinfin.com/business-insurance/products/cyber-risk"
+	},
+	{
 		"Company": "CircleCI",
-		"Domain": "circleci.com",
+		"Domain": "https://circleci.com",
 		"Compliance and Trust Link": "https://circleci.com/security/"
 	},
 	{
 		"Company": "Cisco",
-		"Domain": "cisco.com",
+		"Domain": "https://cisco.com",
 		"Compliance and Trust Link": "https://www.cisco.com/c/en/us/about/trust-center.html~~https://trustportal.cisco.com/c/r/ctp/trust-portal.html#/"
 	},
 	{
 		"Company": "Cision",
-		"Domain": "cision.com",
+		"Domain": "https://cision.com",
 		"Compliance and Trust Link": "https://www.cision.com/legal/security-statement/"
 	},
 	{
+		"Company": "Citizens Financial Group",
+		"Domain": "https://citizensbank.com",
+		"Compliance and Trust Link": "https://www.citizensbank.com/account-safeguards/security.aspx"
+	},
+	{
+		"Company": "Clearlake Capital",
+		"Domain": "https://clearlake.com",
+		"Compliance and Trust Link": "https://clearlake.com/governance/"
+	},
+	{
+		"Company": "Cleveland-Cliffs",
+		"Domain": "https://clevelandcliffs.com",
+		"Compliance and Trust Link": "https://www.clevelandcliffs.com/doing-business/product-compliance"
+	},
+	{
+		"Company": "Close",
+		"Domain": "https://close.com",
+		"Compliance and Trust Link": "https://www.close.com/security"
+	},
+	{
 		"Company": "Close.com",
-		"Domain": "close.com",
+		"Domain": "https://close.com",
 		"Compliance and Trust Link": "https://www.close.com/security"
 	},
 	{
 		"Company": "Cloudinary",
-		"Domain": "cloudinary.com",
+		"Domain": "https://cloudinary.com",
 		"Compliance and Trust Link": "https://cloudinary.com/trust"
 	},
 	{
+		"Company": "CMS Energy",
+		"Domain": "https://cmsenergy.com",
+		"Compliance and Trust Link": "https://www.cmsenergy.com/security-statement/default.aspx"
+	},
+	{
+		"Company": "Coinbase Global",
+		"Domain": "https://coinbase.com",
+		"Compliance and Trust Link": "https://www.coinbase.com/security"
+	},
+	{
+		"Company": "ConnectWise",
+		"Domain": "https://connectwise.com",
+		"Compliance and Trust Link": "https://www.connectwise.com/company/trust/compliance ~~ https://www.connectwise.com/company/trust/security"
+	},
+	{
+		"Company": "ConocoPhillips",
+		"Domain": "https://conocophillips.com",
+		"Compliance and Trust Link": "https://www.conocophillips.com/operations/safety-health-security/security/"
+	},
+	{
+		"Company": "Constant Contact",
+		"Domain": "https://constantcontact.com",
+		"Compliance and Trust Link": "https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/5632-security-of-my-data-on-constant-contact-servers?lang=en_US"
+	},
+	{
 		"Company": "Couchbase",
-		"Domain": "couchbase.com",
+		"Domain": "https://couchbase.com",
 		"Compliance and Trust Link": "https://www.couchbase.com/products/capella/trust/"
 	},
 	{
+		"Company": "Coupa Software",
+		"Domain": "https://coupa.com",
+		"Compliance and Trust Link": "https://www.coupa.com/company/trust"
+	},
+	{
+		"Company": "Crunchbase",
+		"Domain": "https://crunchbase.com",
+		"Compliance and Trust Link": "https://support.crunchbase.com/hc/en-us/sections/4404782887699-User-Privacy"
+	},
+	{
+		"Company": "CSX",
+		"Domain": "https://csx.com",
+		"Compliance and Trust Link": "https://www.csx.com/index.cfm/about-us/safety/security/"
+	},
+	{
 		"Company": "Cvent",
-		"Domain": "cvent.com",
+		"Domain": "https://cvent.com",
 		"Compliance and Trust Link": "https://www.cvent.com/en/security"
 	},
 	{
 		"Company": "DataStax",
-		"Domain": "datastax.com",
+		"Domain": "https://datastax.com",
 		"Compliance and Trust Link": "https://trust.datastax.com/"
 	},
 	{
 		"Company": "Debian",
-		"Domain": "debian.org",
+		"Domain": "https://debian.org",
 		"Compliance and Trust Link": "https://www.debian.org/security/"
 	},
 	{
+		"Company": "Deere",
+		"Domain": "https://deere.com",
+		"Compliance and Trust Link": "https://www.deere.com/en/our-company/digital-security/q-and-a-on-data-protection/"
+	},
+	{
+		"Company": "Dell",
+		"Domain": "https://dell.com",
+		"Compliance and Trust Link": "https://www.dell.com/en-us/dt/about-us/security-and-trust-center/index.htm#tab0=0&anchorHash=security-privacy-compliance"
+	},
+	{
+		"Company": "Delta Air Lines",
+		"Domain": "https://delta.com",
+		"Compliance and Trust Link": "https://www.delta.com/us/en/legal/privacy-and-security/protect-your-data"
+	},
+	{
+		"Company": "Devloutions",
+		"Domain": "https://devolutions.net",
+		"Compliance and Trust Link": "https://devolutions.net/security/ ~~ https://app.conveyor.com/profile/devolutions"
+	},
+	{
 		"Company": "Devolutions",
-		"Domain": "devolutions.net",
+		"Domain": "https://devolutions.net",
 		"Compliance and Trust Link": "https://devolutions.net/security/"
 	},
 	{
+		"Company": "Devon Energy",
+		"Domain": "https://devonenergy.com",
+		"Compliance and Trust Link": "https://www.devonenergy.com/sustainability/safety-security/cybersecurity"
+	},
+	{
+		"Company": "Discover Financial Services",
+		"Domain": "https://discover.com",
+		"Compliance and Trust Link": "https://www.discoverglobalnetwork.com/solutions/pci-compliance/discover-information-security-compliance/"
+	},
+	{
+		"Company": "Docker",
+		"Domain": "https://docker.com",
+		"Compliance and Trust Link": "https://www.docker.com/trust/compliance/"
+	},
+	{
 		"Company": "DocuSign",
-		"Domain": "docusign.com",
+		"Domain": "https://docusign.com",
 		"Compliance and Trust Link": "https://www.docusign.com/trust/compliance/certifications~~https://support.docusign.com/s/trust-portal?language=en_US&_gl=1*1uxhkw3*_gcl_au*MjA5NTI2ODM4My4xNzA3Mzk4NjE5*_ga*NjA4NjczNDY4LjE3MDczOTg2MTk.*_ga_1TZ7S9D6BQ*MTcwNzM5ODYxOC4xLjEuMTcwNzM5ODYzNi40Mi4wLjA.&_ga=2.185542057.104409457.1707398619-608673468.1707398619"
 	},
 	{
+		"Company": "Dominion Energy",
+		"Domain": "https://dominionenergy.com",
+		"Compliance and Trust Link": "https://www.dominionenergy.com/our-stories/cyber-security"
+	},
+	{
+		"Company": "Domo",
+		"Domain": "https://domo.com",
+		"Compliance and Trust Link": "https://www.domo.com/platform/security"
+	},
+	{
+		"Company": "Dover",
+		"Domain": "https://dovercorporation.com",
+		"Compliance and Trust Link": "https://www.dovercorporation.com/sustainability/governance/data-security-and-privacy"
+	},
+	{
 		"Company": "Drift",
-		"Domain": "drift.com",
+		"Domain": "https://drift.com",
 		"Compliance and Trust Link": "https://www.drift.com/security/~~https://www.drift.com/security/#certifications"
 	},
 	{
 		"Company": "Dropbox",
-		"Domain": "dropbox.com",
+		"Domain": "https://dropbox.com",
 		"Compliance and Trust Link": "https://www.dropbox.com/business/trust~~https://www.dropbox.com/business/trust/compliance"
 	},
 	{
+		"Company": "DXC Technology",
+		"Domain": "https://dxc.com",
+		"Compliance and Trust Link": "https://dxc.com/us/en/offerings/security/security-risk-management"
+	},
+	{
 		"Company": "Dynatrace",
-		"Domain": "dynatrace.com",
+		"Domain": "https://dynatrace.com",
 		"Compliance and Trust Link": "https://www.dynatrace.com/company/trust-center/"
 	},
 	{
 		"Company": "Elastic",
-		"Domain": "elastic.co",
+		"Domain": "https://elastic.co",
 		"Compliance and Trust Link": "https://www.elastic.co/trust/security-and-compliance"
 	},
 	{
 		"Company": "Elementor",
-		"Domain": "elementor.com",
+		"Domain": "https://elementor.com",
 		"Compliance and Trust Link": "https://elementor.com/trust/"
 	},
 	{
+		"Company": "EnLink Midstream",
+		"Domain": "https://enlink.com",
+		"Compliance and Trust Link": "https://sustainability.enlink.com/risk-management-and-cybersecurity/"
+	},
+	{
+		"Company": "Equinix",
+		"Domain": "https://equinix.com",
+		"Compliance and Trust Link": "https://www.equinix.com/data-centers/design/standards-compliance"
+	},
+	{
 		"Company": "Esri",
-		"Domain": "esri.com",
+		"Domain": "https://esri.com",
 		"Compliance and Trust Link": "https://trust.arcgis.com/en/"
 	},
 	{
 		"Company": "Eventbrite",
-		"Domain": "eventbrite.com",
+		"Domain": "https://eventbrite.com",
 		"Compliance and Trust Link": "https://www.eventbrite.com/security/"
 	},
 	{
 		"Company": "Evernote",
-		"Domain": "evernote.com",
+		"Domain": "https://evernote.com",
 		"Compliance and Trust Link": "https://evernote.com/security"
 	},
 	{
+		"Company": "Expedia Group",
+		"Domain": "https://expedia.com",
+		"Compliance and Trust Link": "https://egscc.expediagroup.com/"
+	},
+	{
+		"Company": "Expeditors Intl. of Washington",
+		"Domain": "https://expeditors.com",
+		"Compliance and Trust Link": "https://www.expeditors.com/services/supply-chain/security"
+	},
+	{
+		"Company": "F5",
+		"Domain": "https://f5.com",
+		"Compliance and Trust Link": "https://www.f5.com/company/trust-center"
+	},
+	{
+		"Company": "Fastly",
+		"Domain": "https://fastly.com",
+		"Compliance and Trust Link": "https://www.fastly.com/compliance ~~ https://docs.fastly.com/products/security-measures"
+	},
+	{
+		"Company": "Fastmail",
+		"Domain": "https://fastmail.com",
+		"Compliance and Trust Link": "https://www.fastmail.com/features/security/"
+	},
+	{
 		"Company": "Figma",
-		"Domain": "figma.com",
+		"Domain": "https://figma.com",
 		"Compliance and Trust Link": "https://www.figma.com/security/"
 	},
 	{
+		"Company": "First American Financial",
+		"Domain": "https://firstam.com",
+		"Compliance and Trust Link": "https://www.firstam.com/security-and-privacy/"
+	},
+	{
+		"Company": "Flexera",
+		"Domain": "https://flexera.com",
+		"Compliance and Trust Link": "https://docs.flexera.com/flexera/EN/SaaSManager/Security.htm"
+	},
+	{
+		"Company": "Forcepoint",
+		"Domain": "https://forcepoint.com",
+		"Compliance and Trust Link": "https://www.forcepoint.com/certifications/cloud-security-certifications ~~ "
+	},
+	{
+		"Company": "FreshBooks",
+		"Domain": "https://freshbooks.com",
+		"Compliance and Trust Link": "https://www.freshbooks.com/policies/security-safeguards"
+	},
+	{
 		"Company": "Freshdesk",
-		"Domain": "freshdesk.com",
+		"Domain": "https://freshdesk.com",
 		"Compliance and Trust Link": "https://www.freshworks.com/security/~~https://www.freshworks.com/security/trust/"
 	},
 	{
 		"Company": "G2",
-		"Domain": "g2.com",
+		"Domain": "https://g2.com",
 		"Compliance and Trust Link": "https://trust.g2.com/"
 	},
 	{
 		"Company": "GetResponse",
-		"Domain": "getresponse.com",
+		"Domain": "https://getresponse.com",
 		"Compliance and Trust Link": "https://www.getresponse.com/security"
 	},
 	{
+		"Company": "GitHub",
+		"Domain": "https://github.com",
+		"Compliance and Trust Link": "https://github.com/security"
+	},
+	{
 		"Company": "GitLab",
-		"Domain": "gitlab.com",
+		"Domain": "https://gitlab.com",
 		"Compliance and Trust Link": "https://about.gitlab.com/security/"
 	},
 	{
 		"Company": "Glassdoor",
-		"Domain": "glassdoor.com",
+		"Domain": "https://glassdoor.com",
 		"Compliance and Trust Link": "https://www.glassdoor.com/about/security/"
 	},
 	{
 		"Company": "GoDaddy",
-		"Domain": "godaddy.com",
+		"Domain": "https://godaddy.com",
 		"Compliance and Trust Link": "https://www.godaddy.com/trust-center~~https://www.godaddy.com/trust-center/compliance"
 	},
 	{
+		"Company": "Goldman Sachs Group",
+		"Domain": "https://goldmansachs.com",
+		"Compliance and Trust Link": "https://www.goldmansachs.com/security/"
+	},
+	{
+		"Company": "GoodData",
+		"Domain": "https://gooddata.com",
+		"Compliance and Trust Link": "https://www.gooddata.com/docs/cloud/security-and-compliance/"
+	},
+	{
+		"Company": "Google",
+		"Domain": "https://google.com",
+		"Compliance and Trust Link": "https://cloud.google.com/security/compliance/offerings/"
+	},
+	{
+		"Company": "Google Workspace",
+		"Domain": "https://workspace.google.com",
+		"Compliance and Trust Link": "https://workspace.google.com/security/"
+	},
+	{
+		"Company": "GoToMeeting",
+		"Domain": "https://goto.com",
+		"Compliance and Trust Link": "https://www.goto.com/company/trust/security-measures"
+	},
+	{
 		"Company": "Grafana",
-		"Domain": "grafana.com",
+		"Domain": "https://grafana.com",
 		"Compliance and Trust Link": "https://trust.grafana.com/"
 	},
 	{
 		"Company": "Grammarly",
-		"Domain": "grammarly.com",
+		"Domain": "https://grammarly.com",
 		"Compliance and Trust Link": "https://www.grammarly.com/trust~~https://www.grammarly.com/security~~https://www.grammarly.com/compliance~~https://www.grammarly.com/responsible-ai"
 	},
 	{
+		"Company": "Guardian Life Ins. Co. of America",
+		"Domain": "https://guardianlife.com",
+		"Compliance and Trust Link": "https://www.guardianlife.com/cybersecurity"
+	},
+	{
+		"Company": "Halliburton",
+		"Domain": "https://halliburton.com",
+		"Compliance and Trust Link": "https://www.halliburton.com/en/sustainability/annual-sustainability-report/governance/enterprise-risk-management"
+	},
+	{
 		"Company": "HashiCorp",
-		"Domain": "hashicorp.com",
+		"Domain": "https://hashicorp.com",
 		"Compliance and Trust Link": "https://www.hashicorp.com/trust/security"
 	},
 	{
 		"Company": "Heroku",
-		"Domain": "heroku.com",
+		"Domain": "https://heroku.com",
 		"Compliance and Trust Link": "https://www.heroku.com/policy/security"
 	},
 	{
+		"Company": "Hootsuite",
+		"Domain": "https://hootsuite.com",
+		"Compliance and Trust Link": "https://www.hootsuite.com/trust-center/compliance"
+	},
+	{
 		"Company": "Hopin",
-		"Domain": "hopin.com",
+		"Domain": "https://hopin.com",
 		"Compliance and Trust Link": "https://hopin.com/hopin-events/legal/security~~https://cyber-risk.upguard.com/sharedprofilepreview/c979896f-d89e-4d3a-948c-1d6cfc238797"
 	},
 	{
 		"Company": "Hotjar",
-		"Domain": "hotjar.com",
+		"Domain": "https://hotjar.com",
 		"Compliance and Trust Link": "https://www.hotjar.com/security/"
 	},
 	{
+		"Company": "HP",
+		"Domain": "https://hp.com",
+		"Compliance and Trust Link": "https://enterprisesecurity.hp.com/s/compliance"
+	},
+	{
+		"Company": "Huawei",
+		"Domain": "https://huawei.com",
+		"Compliance and Trust Link": "https://www.huawei.com/en/trust-center/transparency#standard-certification"
+	},
+	{
 		"Company": "HubSpot",
-		"Domain": "hubspot.com",
+		"Domain": "https://hubspot.com",
 		"Compliance and Trust Link": "https://trust.hubspot.com/"
 	},
 	{
 		"Company": "IBM",
-		"Domain": "ibm.com",
+		"Domain": "https://ibm.com",
 		"Compliance and Trust Link": "https://www.ibm.com/trust"
 	},
 	{
 		"Company": "InfluxData",
-		"Domain": "influxdata.com",
+		"Domain": "https://influxdata.com",
 		"Compliance and Trust Link": "https://www.influxdata.com/security/"
 	},
 	{
+		"Company": "Infoblox",
+		"Domain": "https://infoblox.com",
+		"Compliance and Trust Link": "https://trust.infoblox.com/"
+	},
+	{
+		"Company": "Infogram",
+		"Domain": "https://infogram.com",
+		"Compliance and Trust Link": "https://infogram.com/features/soc-2-compliance"
+	},
+	{
 		"Company": "Instructure",
-		"Domain": "instructure.com",
+		"Domain": "https://instructure.com",
 		"Compliance and Trust Link": "https://www.instructure.com/trust-center~~https://www.instructure.com/trust-center/compliance"
 	},
 	{
 		"Company": "Intercom",
-		"Domain": "intercom.com",
+		"Domain": "https://intercom.com",
 		"Compliance and Trust Link": "https://www.intercom.com/security"
 	},
 	{
+		"Company": "Intercontinental Exchange",
+		"Domain": "https://ice.com",
+		"Compliance and Trust Link": "https://www.ice.com/security ~~ https://www.ice.com/privacy-security-center/security"
+	},
+	{
 		"Company": "Intuit",
-		"Domain": "intuit.com",
+		"Domain": "https://intuit.com",
 		"Compliance and Trust Link": "https://security.intuit.com/security-practices/~~https://security.intuit.com/compliance/"
 	},
 	{
+		"Company": "Ivanti",
+		"Domain": "https://ivanti.com",
+		"Compliance and Trust Link": "https://www.ivanti.com/resources/security-compliance"
+	},
+	{
 		"Company": "JetBrains",
-		"Domain": "jetbrains.com",
+		"Domain": "https://jetbrains.com",
 		"Compliance and Trust Link": "https://www.jetbrains.com/privacy-security/"
 	},
 	{
+		"Company": "JFrog",
+		"Domain": "https://jfrog.com",
+		"Compliance and Trust Link": "https://jfrog.com/trust/certificate-program/  ~~ https://jfrog.com/trust/application-security/"
+	},
+	{
 		"Company": "Jitsi",
-		"Domain": "jitsi.org",
+		"Domain": "https://jitsi.org",
 		"Compliance and Trust Link": "https://jitsi.org/security/"
 	},
 	{
+		"Company": "Johnson Controls",
+		"Domain": "https://johnsoncontrols.com",
+		"Compliance and Trust Link": "https://www.johnsoncontrols.com/trust-center/cybersecurity"
+	},
+	{
+		"Company": "K15T",
+		"Domain": "https://k15t.com",
+		"Compliance and Trust Link": "https://trust.k15t.com/"
+	},
+	{
 		"Company": "Kickstarter",
-		"Domain": "kickstarter.com",
+		"Domain": "https://kickstarter.com",
 		"Compliance and Trust Link": "https://www.kickstarter.com/trust"
 	},
 	{
 		"Company": "LastPass",
-		"Domain": "lastpass.com",
+		"Domain": "https://lastpass.com",
 		"Compliance and Trust Link": "https://www.lastpass.com/trust-center~~https://www.lastpass.com/trust-center/compliance~~https://www.lastpass.com/security"
 	},
 	{
 		"Company": "LaunchDarkly",
-		"Domain": "launchdarkly.com",
+		"Domain": "https://launchdarkly.com",
 		"Compliance and Trust Link": "https://launchdarkly.com/security/"
 	},
 	{
+		"Company": "Leidos Holdings",
+		"Domain": "https://leidos.com",
+		"Compliance and Trust Link": "https://www.leidos.com/company/trust/cybersecurity"
+	},
+	{
+		"Company": "Lenovo",
+		"Domain": "https://lenovo.com",
+		"Compliance and Trust Link": "https://www.lenovo.com/us/en/compliance/ ~~ https://www.lenovo.com/us/en/product-security/about-lenovo-product-security/"
+	},
+	{
 		"Company": "Level",
-		"Domain": "lever.co",
+		"Domain": "https://lever.co",
 		"Compliance and Trust Link": "https://www.lever.co/security-exhibit/#~~https://www.lever.co/security/certifications/"
 	},
 	{
+		"Company": "Lever",
+		"Domain": "https://lever.co",
+		"Compliance and Trust Link": "https://www.lever.co/security/certifications/ ~~ https://www.lever.co/security/"
+	},
+	{
+		"Company": "Lexmark",
+		"Domain": "https://lexmark.com",
+		"Compliance and Trust Link": "https://www.lexmark.com/en_us/solutions/secure-by-design.html"
+	},
+	{
 		"Company": "Linux Foundation",
-		"Domain": "linuxfoundation.org",
+		"Domain": "https://linuxfoundation.org",
 		"Compliance and Trust Link": "https://www.linuxfoundation.org/security"
 	},
 	{
 		"Company": "LivePlan",
-		"Domain": "liveplan.com",
+		"Domain": "https://liveplan.com",
 		"Compliance and Trust Link": "https://www.liveplan.com/policies/security"
 	},
 	{
+		"Company": "LPL Financial Holdings",
+		"Domain": "https://lpl.com",
+		"Compliance and Trust Link": "https://www.lpl.com/disclosures/privacy-security/lpl-cyber-security.html"
+	},
+	{
+		"Company": "Lumen Technologies",
+		"Domain": "https://lumen.com",
+		"Compliance and Trust Link": "https://www.lumen.com/en-us/about/legal/trust-center/security-and-compliance/compliance-and-audit.html ~~ https://www.lumen.com/en-us/about/legal/trust-center/security-and-compliance.html"
+	},
+	{
 		"Company": "Mailchimp",
-		"Domain": "mailchimp.com",
+		"Domain": "https://mailchimp.com",
 		"Compliance and Trust Link": "https://mailchimp.com/about/security/"
 	},
 	{
 		"Company": "Mailjet",
-		"Domain": "mailjet.com",
+		"Domain": "https://mailjet.com",
 		"Compliance and Trust Link": "https://www.mailjet.com/legal/security-privacy/"
 	},
 	{
+		"Company": "Marketo",
+		"Domain": "https://marketo.com",
+		"Compliance and Trust Link": "https://www.adobe.com/trust/compliance/compliance-list.html ~~ https://www.adobe.com/trust/compliance/adobe-ccf.html ~~ https://www.adobe.com/trust/security.html"
+	},
+	{
 		"Company": "MarkLogic",
-		"Domain": "marklogic.com",
+		"Domain": "https://marklogic.com",
 		"Compliance and Trust Link": "https://www.marklogic.com/trust/"
 	},
 	{
+		"Company": "Meistertask",
+		"Domain": "https://meistertask.com",
+		"Compliance and Trust Link": "https://www.meistertask.com/pages/security/"
+	},
+	{
+		"Company": "Mendix",
+		"Domain": "https://mendix.com",
+		"Compliance and Trust Link": "https://www.mendix.com/trust/"
+	},
+	{
 		"Company": "Micro Focus",
-		"Domain": "microfocus.com",
+		"Domain": "https://microfocus.com",
 		"Compliance and Trust Link": "https://www.microfocus.com/en-us/about/product-security~~https://www.microfocus.com/en-us/about/product-security-certifications"
 	},
 	{
 		"Company": "MindMeister",
-		"Domain": "mindmeister.com",
+		"Domain": "https://mindmeister.com",
 		"Compliance and Trust Link": "https://www.mindmeister.com/pages/security/"
 	},
 	{
 		"Company": "Miro",
-		"Domain": "miro.com",
+		"Domain": "https://miro.com",
 		"Compliance and Trust Link": "https://miro.com/trust/~~https://miro.com/trust/compliance/"
 	},
 	{
+		"Company": "Mitel",
+		"Domain": "https://mitel.com",
+		"Compliance and Trust Link": "https://www.mitel.com/solutions/industry/government/security-and-compliance"
+	},
+	{
 		"Company": "Mixpanel",
-		"Domain": "mixpanel.com",
+		"Domain": "https://mixpanel.com",
 		"Compliance and Trust Link": "https://mixpanel.com/legal/security-overview/"
 	},
 	{
 		"Company": "Monday.com",
-		"Domain": "monday.com",
+		"Domain": "https://monday.com",
 		"Compliance and Trust Link": "https://monday.com/trustcenter"
 	},
 	{
 		"Company": "MongoDB",
-		"Domain": "mongodb.com",
+		"Domain": "https://mongodb.com",
 		"Compliance and Trust Link": "https://www.mongodb.com/products/platform/trust~~https://www.mongodb.com/products/platform/trust#security~~https://www.mongodb.com/products/platform/trust#compliance"
 	},
 	{
+		"Company": "Motorola",
+		"Domain": "https://motorola.com",
+		"Compliance and Trust Link": "https://www.motorolasolutions.com/en_us/about/trust-center/security.html ~~ https://www.motorolasolutions.com/en_us/about/trust-center/compliance.html"
+	},
+	{
+		"Company": "Motorola Solutions",
+		"Domain": "https://motorolasolutions.com",
+		"Compliance and Trust Link": "https://www.motorolasolutions.com/en_us/about/trust-center/security.html ~~ https://www.motorolasolutions.com/en_us/about/trust-center/compliance.html"
+	},
+	{
+		"Company": "Mozilla",
+		"Domain": "https://mozilla.org",
+		"Compliance and Trust Link": "https://www.mozilla.org/security/ ~~ https://infosec.mozilla.org/"
+	},
+	{
+		"Company": "NetApp",
+		"Domain": "https://netapp.com",
+		"Compliance and Trust Link": "https://www.netapp.com/esg/trust-center/compliance/"
+	},
+	{
 		"Company": "Netlify",
-		"Domain": "netlify.com",
+		"Domain": "https://netlify.com",
 		"Compliance and Trust Link": "https://www.netlify.com/trust-center/~~https://www.netlify.com/security/"
 	},
 	{
+		"Company": "Netskope",
+		"Domain": "https://netskope.com",
+		"Compliance and Trust Link": "https://www.netskope.com/company/security-compliance-and-assurance"
+	},
+	{
+		"Company": "New Relic",
+		"Domain": "https://newrelic.com",
+		"Compliance and Trust Link": "https://newrelic.com/security"
+	},
+	{
+		"Company": "New York Life Insurance",
+		"Domain": "https://newyorklife.com",
+		"Compliance and Trust Link": "https://www.newyorklife.com/about/privacy/information-security"
+	},
+	{
+		"Company": "Nexcess",
+		"Domain": "https://nexcess.net",
+		"Compliance and Trust Link": "https://www.nexcess.net/compliance/"
+	},
+	{
+		"Company": "NextRoll",
+		"Domain": "https://nextroll.com",
+		"Compliance and Trust Link": "https://security.nextroll.com/"
+	},
+	{
+		"Company": "Northwestern Mutual",
+		"Domain": "https://northwesternmutual.com",
+		"Compliance and Trust Link": "https://www.northwesternmutual.com/security-and-privacy/"
+	},
+	{
 		"Company": "Notion",
-		"Domain": "notion.so",
+		"Domain": "https://notion.so",
 		"Compliance and Trust Link": "https://www.notion.so/security~~https://www.notion.so/help/security-and-privacy"
 	},
 	{
+		"Company": "Nutanix",
+		"Domain": "https://nutanix.com",
+		"Compliance and Trust Link": "https://www.nutanix.com/trust/compliance-and-certifications"
+	},
+	{
 		"Company": "Okta",
-		"Domain": "okta.com",
+		"Domain": "https://okta.com",
 		"Compliance and Trust Link": "https://trust.okta.com/security/~~https://trust.okta.com/compliance/"
 	},
 	{
+		"Company": "On24",
+		"Domain": "https://on24.com",
+		"Compliance and Trust Link": "https://www.on24.com/security-compliance/"
+	},
+	{
 		"Company": "OneTrust",
-		"Domain": "onetrust.com",
+		"Domain": "https://onetrust.com",
 		"Compliance and Trust Link": "https://www.onetrust.com/trust/"
 	},
 	{
+		"Company": "Openstack",
+		"Domain": "https://openstack.org",
+		"Compliance and Trust Link": "https://docs.openstack.org/security-guide/compliance/certification-and-compliance-statements.html"
+	},
+	{
+		"Company": "OpenVPN",
+		"Domain": "https://openvpn.com",
+		"Compliance and Trust Link": "https://openvpn.net/soc2-compliance/"
+	},
+	{
 		"Company": "Optimizely",
-		"Domain": "optimizely.com",
+		"Domain": "https://optimizely.com",
 		"Compliance and Trust Link": "https://www.optimizely.com/trust-center/security/~~https://www.optimizely.com/trust-center/compliance/"
 	},
 	{
+		"Company": "OptiMonster",
+		"Domain": "https://optinmonster.com",
+		"Compliance and Trust Link": "https://optinmonster.com/security/"
+	},
+	{
 		"Company": "Oracle",
-		"Domain": "oracle.com",
+		"Domain": "https://oracle.com",
 		"Compliance and Trust Link": "https://www.oracle.com/trust/~~https://www.oracle.com/corporate/cloud-compliance/"
 	},
 	{
 		"Company": "Outreach",
-		"Domain": "outreach.io",
+		"Domain": "https://outreach.io",
 		"Compliance and Trust Link": "https://www.outreach.io/platform/trust"
 	},
 	{
+		"Company": "OVH Cloud",
+		"Domain": "https://ovhcloud.com",
+		"Compliance and Trust Link": "https://corporate.ovhcloud.com/en/trusted-cloud/security-certifications/"
+	},
+	{
 		"Company": "PagerDuty",
-		"Domain": "pagerduty.com",
+		"Domain": "https://pagerduty.com",
 		"Compliance and Trust Link": "https://www.pagerduty.com/security/"
 	},
 	{
 		"Company": "Palo Alto Networks",
-		"Domain": "paloalto.com",
+		"Domain": "https://paloalto.com",
 		"Compliance and Trust Link": "https://www.paloaltonetworks.com/legal-notices/trust-center~~https://www.paloaltonetworks.com/legal-notices/trust-center/compliance"
 	},
 	{
+		"Company": "Paychex",
+		"Domain": "https://paychex.com",
+		"Compliance and Trust Link": "https://www.paychex.com/corporate/security"
+	},
+	{
 		"Company": "PayPal",
-		"Domain": "paypal.com",
+		"Domain": "https://paypal.com",
 		"Compliance and Trust Link": "https://www.paypal.com/us/compliancereports/home~~https://www.paypal-trustcenter.com/"
 	},
 	{
+		"Company": "Personio",
+		"Domain": "https://personio.com",
+		"Compliance and Trust Link": "https://www.personio.com/security/"
+	},
+	{
 		"Company": "Pingdom",
-		"Domain": "pingdom.com",
+		"Domain": "https://pingdom.com",
 		"Compliance and Trust Link": "https://www.pingdom.com/security/"
 	},
 	{
+		"Company": "Pipeliner CRM",
+		"Domain": "https://pipelinersales.com",
+		"Compliance and Trust Link": "https://www.pipelinersales.com/security/"
+	},
+	{
 		"Company": "PowerToFly",
-		"Domain": "powertofly.com",
+		"Domain": "https://powertofly.com",
 		"Compliance and Trust Link": "https://powertofly.com/about/security-statement"
 	},
 	{
+		"Company": "Practical Ignition",
+		"Domain": "https://ignitionapp.com",
+		"Compliance and Trust Link": "https://www.ignitionapp.com/security"
+	},
+	{
+		"Company": "Principal Financial",
+		"Domain": "https://principal.com",
+		"Compliance and Trust Link": "https://www.principal.com/security-policies"
+	},
+	{
+		"Company": "ProfitWell",
+		"Domain": "https://profitwell.com",
+		"Compliance and Trust Link": "https://security.paddle.com/"
+	},
+	{
 		"Company": "Progress",
-		"Domain": "progress.com",
+		"Domain": "https://progress.com",
 		"Compliance and Trust Link": "https://www.progress.com/security"
 	},
 	{
+		"Company": "Proofpoint",
+		"Domain": "https://proofpoint.com",
+		"Compliance and Trust Link": "https://www.proofpoint.com/us/legal/trust/product-certifications ~~ https://www.proofpoint.com/us/legal/trust/technical-and-organizational-measures"
+	},
+	{
 		"Company": "Qualtrics",
-		"Domain": "qualtrics.com",
+		"Domain": "https://qualtrics.com",
 		"Compliance and Trust Link": "https://www.qualtrics.com/trust-center/"
 	},
 	{
 		"Company": "Red Hat",
-		"Domain": "redhat.com",
+		"Domain": "https://redhat.com",
 		"Compliance and Trust Link": "https://www.redhat.com/en/trust"
 	},
 	{
 		"Company": "RingCentral",
-		"Domain": "ringcentral.com",
+		"Domain": "https://ringcentral.com",
 		"Compliance and Trust Link": "https://www.ringcentral.com/trust-center.html~~https://www.ringcentral.com/trust-center.html?tabs=compliance"
 	},
 	{
+		"Company": "Rockwell Automation",
+		"Domain": "https://rockwellautomation.com",
+		"Compliance and Trust Link": "https://www.rockwellautomation.com/en-us/trust-center.html"
+	},
+	{
 		"Company": "SageIntacct",
-		"Domain": "sageintacct.com",
+		"Domain": "https://sageintacct.com",
 		"Compliance and Trust Link": "https://www.sage.com/en-us/trust-security/"
 	},
 	{
 		"Company": "Salesforce",
-		"Domain": "salesforce.com",
+		"Domain": "https://salesforce.com",
 		"Compliance and Trust Link": "https://security.salesforce.com/~~https://trust.salesforce.com/~~https://compliance.salesforce.com/en"
 	},
 	{
 		"Company": "SAP",
-		"Domain": "sap.com",
+		"Domain": "https://sap.com",
 		"Compliance and Trust Link": "https://www.sap.com/about/trust-center.html~~https://www.sap.com/about/trust-center/certification-compliance.html"
 	},
 	{
 		"Company": "Semrush",
-		"Domain": "semrush.com",
+		"Domain": "https://semrush.com",
 		"Compliance and Trust Link": "https://www.semrush.com/company/security/"
 	},
 	{
+		"Company": "ServiceNow",
+		"Domain": "https://servicenow.com",
+		"Compliance and Trust Link": "https://www.servicenow.com/company/trust/compliance.html"
+	},
+	{
+		"Company": "Shopify",
+		"Domain": "https://shopify.com",
+		"Compliance and Trust Link": "https://help.shopify.com/en/manual/privacy-and-security/account-security/compliance-reports"
+	},
+	{
 		"Company": "Siemens",
-		"Domain": "siemens.com",
+		"Domain": "https://siemens.com",
 		"Compliance and Trust Link": "https://www.sw.siemens.com/en-US/trust-center/"
 	},
 	{
 		"Company": "Slack",
-		"Domain": "slack.com",
+		"Domain": "https://slack.com",
 		"Compliance and Trust Link": "https://slack.com/trust~~https://slack.com/trust/compliance"
 	},
 	{
 		"Company": "Smartdraw",
-		"Domain": "smartdraw.com",
+		"Domain": "https://smartdraw.com",
 		"Compliance and Trust Link": "https://www.smartdraw.com/about/security/~~https://www.smartdraw.com/about/security/#complianceCertifications"
 	},
 	{
 		"Company": "Smartsheet",
-		"Domain": "smartsheet.com",
+		"Domain": "https://smartsheet.com",
 		"Compliance and Trust Link": "https://www.smartsheet.com/trust~~https://www.smartsheet.com/trust/compliance"
 	},
 	{
 		"Company": "Snowflake",
-		"Domain": "snowflake.com",
+		"Domain": "https://snowflake.com",
 		"Compliance and Trust Link": "https://www.snowflake.com/product/security-and-trust-center/~~https://www.snowflake.com/snowflakes-security-compliance-reports/"
 	},
 	{
+		"Company": "Soho",
+		"Domain": "https://zoho.com",
+		"Compliance and Trust Link": "https://www.zoho.com/compliance.html ~~ https://www.zoho.com/security.html"
+	},
+	{
 		"Company": "Solarwinds",
-		"Domain": "solarwinds.com",
+		"Domain": "https://solarwinds.com",
 		"Compliance and Trust Link": "https://www.solarwinds.com/trust-center"
 	},
 	{
 		"Company": "Sonatype",
-		"Domain": "sonatype.com",
+		"Domain": "https://sonatype.com",
 		"Compliance and Trust Link": "https://www.sonatype.com/trust-center"
 	},
 	{
 		"Company": "SonicWall",
-		"Domain": "sonicwall.com",
+		"Domain": "https://sonicwall.com",
 		"Compliance and Trust Link": "https://www.sonicwall.com/products/product-certifications/"
 	},
 	{
 		"Company": "Sophos",
-		"Domain": "sophos.com",
+		"Domain": "https://sophos.com",
 		"Compliance and Trust Link": "https://www.sophos.com/en-us/trust~~https://www.sophos.com/en-us/trust/business-certifications"
 	},
 	{
+		"Company": "Spendesk",
+		"Domain": "https://spendesk.com",
+		"Compliance and Trust Link": "https://www.spendesk.com/spendesk-security/ ~~ https://trust.spendesk.com/"
+	},
+	{
 		"Company": "Splunk",
-		"Domain": "splunk.com",
+		"Domain": "https://splunk.com",
 		"Compliance and Trust Link": "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html~~https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy/compliance-at-splunk.html"
 	},
 	{
 		"Company": "Spot.io",
-		"Domain": "spot.io",
+		"Domain": "https://spot.io",
 		"Compliance and Trust Link": "https://spot.io/security-policy/"
 	},
 	{
 		"Company": "Sprout Social",
-		"Domain": "sproutsocial.com",
+		"Domain": "https://sproutsocial.com",
 		"Compliance and Trust Link": "https://sproutsocial.com/trust-center/~~https://trust.sproutsocial.com/"
 	},
 	{
 		"Company": "Squarespace",
-		"Domain": "squarespace.com",
+		"Domain": "https://squarespace.com",
 		"Compliance and Trust Link": "https://www.squarespace.com/security"
 	},
 	{
+		"Company": "Starburst",
+		"Domain": "https://starburst.io",
+		"Compliance and Trust Link": "https://www.starburst.io/about/security/starburst-enterprise/ ~~ https://www.starburst.io/about/security/starburst-galaxy/"
+	},
+	{
 		"Company": "StitchData",
-		"Domain": "stitchdata.com",
-		"Compliance and Trust Link": "https://www.stitchdata.com/platform/security/"
+		"Domain": "https://stitchdata.com",
+		"Compliance and Trust Link": "https://security.talend.com/"
 	},
 	{
 		"Company": "Stripe",
-		"Domain": "stripe.com",
+		"Domain": "https://stripe.com",
 		"Compliance and Trust Link": "https://stripe.com/docs/security"
 	},
 	{
+		"Company": "Stryker",
+		"Domain": "https://stryker.com",
+		"Compliance and Trust Link": "https://www.stryker.com/us/en/about/governance/security.html"
+	},
+	{
 		"Company": "SurveyMonkey",
-		"Domain": "surveymonkey.com",
+		"Domain": "https://surveymonkey.com",
 		"Compliance and Trust Link": "https://www.surveymonkey.com/mp/data-security-and-compliance/"
 	},
 	{
 		"Company": "Syncfusion",
-		"Domain": "syncfusion.com",
+		"Domain": "https://syncfusion.com",
 		"Compliance and Trust Link": "https://syncfusion.com/security-policy"
 	},
 	{
+		"Company": "Synology",
+		"Domain": "https://synology.com",
+		"Compliance and Trust Link": "https://www.synology.com/en-us/security"
+	},
+	{
 		"Company": "Synopsys",
-		"Domain": "synopsys.com",
+		"Domain": "https://synopsys.com",
 		"Compliance and Trust Link": "https://www.synopsys.com/company/legal/software-integrity/security-commitments.html~~https://www.synopsys.com/company/legal/software-integrity/security-commitments.html#tab2"
 	},
 	{
+		"Company": "Tableau",
+		"Domain": "https://tableau.com",
+		"Compliance and Trust Link": "https://help.tableau.com/current/online/en-us/to_security.htm"
+	},
+	{
 		"Company": "Talend",
-		"Domain": "talend.com",
+		"Domain": "https://talend.com",
 		"Compliance and Trust Link": "https://security.talend.com/"
 	},
 	{
+		"Company": "Tenable",
+		"Domain": "https://tenable.com",
+		"Compliance and Trust Link": "https://www.tenable.com/trust ~~ https://www.tenable.com/trust/assurance"
+	},
+	{
+		"Company": "Tesla",
+		"Domain": "https://tesla.com",
+		"Compliance and Trust Link": "https://www.tesla.com/legal/security"
+	},
+	{
+		"Company": "Texas Instruments",
+		"Domain": "https://ti.com",
+		"Compliance and Trust Link": "https://www.ti.com/technologies/security.html"
+	},
+	{
 		"Company": "Thinkific",
-		"Domain": "thinkific.com",
+		"Domain": "https://thinkific.com",
 		"Compliance and Trust Link": "https://www.thinkific.com/security-overview/"
 	},
 	{
+		"Company": "Tibco",
+		"Domain": "https://tibco.com",
+		"Compliance and Trust Link": "https://www.cloud.com/trust-center ~~ https://www.cloud.com/trust-center/certifications ~~https://www.cloud.com/trust-center/faqs"
+	},
+	{
 		"Company": "Time Doctor",
-		"Domain": "timedoctor.com",
+		"Domain": "https://timedoctor.com",
 		"Compliance and Trust Link": "https://www.timedoctor.com/security-and-compliance"
 	},
 	{
 		"Company": "Todoist",
-		"Domain": "todoist.com",
+		"Domain": "https://todoist.com",
 		"Compliance and Trust Link": "https://todoist.com/security"
 	},
 	{
+		"Company": "Travelers",
+		"Domain": "https://travelers.com",
+		"Compliance and Trust Link": "https://www.travelers.com/about-travelers/security/travelers-information-security-practices"
+	},
+	{
+		"Company": "Travelperk",
+		"Domain": "https://travelperk.com",
+		"Compliance and Trust Link": "https://www.travelperk.com/security/ ~~ https://trustcenter.travelperk.com/"
+	},
+	{
 		"Company": "Trello",
-		"Domain": "trello.com",
+		"Domain": "https://trello.com",
 		"Compliance and Trust Link": "https://trello.com/trust"
 	},
 	{
+		"Company": "Trend Micro",
+		"Domain": "https://trendmicro.com",
+		"Compliance and Trust Link": "https://www.trendmicro.com/en_us/about/trust-center/compliance.html ~~ https://www.trendmicro.com/en_us/about/trust-center/security-practices.html"
+	},
+	{
 		"Company": "Twilio",
-		"Domain": "twilio.com",
+		"Domain": "https://twilio.com",
 		"Compliance and Trust Link": "https://www.twilio.com/en-us/trust~~https://www.twilio.com/en-us/security"
 	},
 	{
 		"Company": "Typeform",
-		"Domain": "typeform.com",
+		"Domain": "https://typeform.com",
 		"Compliance and Trust Link": "https://www.typeform.com/help/a/security-at-typeform-360029259552/"
 	},
 	{
+		"Company": "Typo3",
+		"Domain": "https://typo3.org",
+		"Compliance and Trust Link": "https://typo3.org/cms/features/secure-performant-scalable/security-reliability-and-compliance"
+	},
+	{
+		"Company": "UIPath",
+		"Domain": "https://uipath.com",
+		"Compliance and Trust Link": "https://www.uipath.com/legal/trust-and-security ~~ https://www.uipath.com/legal/trust-and-security/security"
+	},
+	{
 		"Company": "Unbounce",
-		"Domain": "unbounce.com",
+		"Domain": "https://unbounce.com",
 		"Compliance and Trust Link": "https://unbounce.com/product/security/"
 	},
 	{
+		"Company": "Unify",
+		"Domain": "https://unify.com",
+		"Compliance and Trust Link": "https://www.accesscorp.com/information-management/unify/secure-compliance/"
+	},
+	{
 		"Company": "Upwork",
-		"Domain": "upwork.com",
+		"Domain": "https://upwork.com",
 		"Compliance and Trust Link": "https://www.upwork.com/trust-and-safety/security/"
 	},
 	{
 		"Company": "Vantage Circle",
-		"Domain": "vantagecircle.com",
+		"Domain": "https://vantagecircle.com",
 		"Compliance and Trust Link": "https://www.vantagecircle.com/security-at-vantage-circle/"
 	},
 	{
+		"Company": "Vimeo",
+		"Domain": "https://vimeo.com",
+		"Compliance and Trust Link": "https://vimeo.com/security"
+	},
+	{
 		"Company": "VMware",
-		"Domain": "vmware.com",
+		"Domain": "https://vmware.com",
 		"Compliance and Trust Link": "https://www.vmware.com/products/trust-center.html"
 	},
 	{
+		"Company": "Watchguard",
+		"Domain": "https://watchguard.com",
+		"Compliance and Trust Link": "https://www.watchguard.com/wgrd-trust-center/product-certifications"
+	},
+	{
 		"Company": "Webflow",
-		"Domain": "webflow.com",
+		"Domain": "https://webflow.com",
 		"Compliance and Trust Link": "https://webflow.com/security~~https://console.whistic.com/v2/request-profile/5782f150-f7ef-4bb3-806c-acc5e8d3c293/ded392e7-76ad-4050-9c81-cfebd97a2b45"
 	},
 	{
 		"Company": "Wix",
-		"Domain": "wix.com",
+		"Domain": "https://wix.com",
 		"Compliance and Trust Link": "https://www.wix.com/trust-center/security"
 	},
 	{
 		"Company": "Wondershare",
-		"Domain": "wondershare.com",
+		"Domain": "https://wondershare.com",
 		"Compliance and Trust Link": "https://www.wondershare.com/trustcenter/"
 	},
 	{
 		"Company": "Workday",
-		"Domain": "workday.com",
+		"Domain": "https://workday.com",
 		"Compliance and Trust Link": "https://www.workday.com/en-us/why-workday/trust/overview.html~~https://www.workday.com/en-us/why-workday/trust/security.html~~https://www.workday.com/en-us/why-workday/trust/compliance.html"
 	},
 	{
 		"Company": "Wrike",
-		"Domain": "wrike.com",
+		"Domain": "https://wrike.com",
 		"Compliance and Trust Link": "https://www.wrike.com/security/overview/~~https://www.wrike.com/security/overview/#Compliance"
 	},
 	{
+		"Company": "Write",
+		"Domain": "https://wrike.com",
+		"Compliance and Trust Link": "https://www.wrike.com/security/overview/"
+	},
+	{
+		"Company": "WSO2",
+		"Domain": "https://wso2.com",
+		"Compliance and Trust Link": "https://wso2.com/security/"
+	},
+	{
 		"Company": "Xero",
-		"Domain": "xero.com",
+		"Domain": "https://xero.com",
 		"Compliance and Trust Link": "https://www.xero.com/us/security/"
 	},
 	{
+		"Company": "Xerox Holdings",
+		"Domain": "https://xerox.com",
+		"Compliance and Trust Link": "https://www.xerox.com/en-us/about/security-compliance"
+	},
+	{
+		"Company": "Yubico",
+		"Domain": "https://yubico.com",
+		"Compliance and Trust Link": "https://www.yubico.com/solutions/cybersecurity-compliance/"
+	},
+	{
 		"Company": "Yugabyte",
-		"Domain": "yugabyte.com",
+		"Domain": "https://yugabyte.com",
 		"Compliance and Trust Link": "https://www.yugabyte.com/trust/~~https://www.yugabyte.com/compliance/"
 	},
 	{
 		"Company": "Zapier",
-		"Domain": "zapier.com",
+		"Domain": "https://zapier.com",
 		"Compliance and Trust Link": "https://zapier.com/security-compliance"
 	},
 	{
 		"Company": "Zendesk",
-		"Domain": "zendesk.com",
+		"Domain": "https://zendesk.com",
 		"Compliance and Trust Link": "https://www.zendesk.com/trust-center/"
 	},
 	{
 		"Company": "Zoho",
-		"Domain": "zoho.com",
+		"Domain": "https://zoho.com",
 		"Compliance and Trust Link": "https://www.zoho.com/trust.html~~https://www.zoho.com/compliance.html"
 	},
 	{
 		"Company": "Zoom",
-		"Domain": "zoom.us",
+		"Domain": "https://zoom.us",
 		"Compliance and Trust Link": "https://explore.zoom.us/en/trust/security/~~https://www.zoom.com/en/trust/legal-compliance/#certifications"
+	},
+	{
+		"Company": "Zscaler",
+		"Domain": "https://zscaler.com",
+		"Compliance and Trust Link": "https://www.zscaler.com/compliance/overview"
 	}
 ]
